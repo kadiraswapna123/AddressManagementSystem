@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Desktop\AddressBook\AddressBookManagementSystem\AddressBookManagementSystem\obj\Debug\net6.0\AddressBookManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\AddressBook\AddressBookManagementSystem\AddressBookManagementSystem\obj\Debug\net6.0\AddressBookManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\AddressBook\AddressBookManagementSystem\AddressBookManagementSystem\obj\Debug\net6.0\AddressBookManagementSystem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\AddressBook\AddressBookManagementSystem\AddressBookManagementSystem\obj\Debug\net6.0\AddressBookManagementSystem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\AddressBook\AddressBookManagementSystem\AddressBookManagementSystem\obj\Debug\net6.0\AddressBookManagementSystem.csproj.CoreCompileInputs.cache
